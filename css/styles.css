@@ -1,0 +1,219 @@
+
+header{
+    overflow: hidden;
+    background-color: rgb(236, 234, 234);
+}
+
+header img{
+    float: left;
+    width: 100px;
+    margin-left: 20px;
+}
+
+
+header h2 {
+    float: left;
+    margin-left: 30px;
+    margin-top: 35px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+header nav{
+    float: right;
+    margin-right: 70px;
+    margin-top: 40px;
+    word-spacing: 40px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(236, 234, 234);
+}
+
+header nav a:hover{
+    color: black;
+}
+
+/*carousl*/
+
+#welcome{
+    font-size: 100px;
+}
+
+/* specialities and headchefs*/
+
+#note{
+    overflow: hidden;
+    margin-top: 50px; 
+    text-align: center;
+}
+
+.img1{
+    float: left;
+    margin-left: 150px;
+    width: 450px;
+    
+}
+
+.img2{
+    float: left;
+    width: 450px;
+}
+
+.img3{
+    overflow: hidden;
+    width: 450px;
+}
+
+
+#specials h6{
+text-align: center;
+font-size: 12px;
+margin-left: 45px;
+margin-right: 45px;
+}
+
+#specials figcaption{
+    font-weight: bolder;
+}
+
+#specials h3{
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 100px;
+}
+
+/*branches card */
+
+.icon{
+    margin-top: 20px;
+}
+
+.iconcard{
+    margin-left: 620px;
+    margin-top: 60px;
+
+}
+
+.link{
+    margin-right: 50px;
+    margin-top: 20px;
+}
+
+
+
+/*menu cards*/
+
+.name {
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+.first img{
+    float: left;
+}
+.second img {
+    
+    float:left;   
+}
+
+.third img{
+    float: left;
+}
+
+.menucard{
+    margin-top: 100px;
+    background-color: rgb(236, 234, 234);
+}
+
+section{
+ margin-top: 20px;
+}
+
+.chick{
+    box-align: center
+}
+
+.menucard h3{
+    text-align:center
+}
+
+aside h3{
+    margin-left: 280px;
+    margin-top: 20px;
+    font-weight: bolder;
+}
+
+/*menu navigation*/
+.navig{
+    text-align: center;
+    margin-top: 40px;
+    word-spacing: 40px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/*info card*/
+
+.card-img{
+    margin-top: 16px;
+}
+
+.container{
+    margin-top: 40px;
+}
+
+.card1{
+    margin-left: 450px;
+}
+
+.card-title{
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.card-text2{
+    font-size: 16px;
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.icon{
+    border-radius: 40%;
+    float: left;
+}
+
+.cardtitle{
+    text-align: left;
+    margin-right: 20px;
+}
+
+.cardd{
+    margin-left: 1200px;
+    margin-top: 150px;
+}
+
+/*footer*/
+footer h5 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgb(209, 3, 3);
+    background-color: rgb(236, 234, 234);
+     
+}
+
+footer :hover{
+    color: black;
+}
+
+footer nav{
+    text-align: center;
+    word-spacing: 40px;
+    font-size: 18px;
+    background-color: rgb(236, 234, 234);
+}
